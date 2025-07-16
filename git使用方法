@@ -1,0 +1,8 @@
+# 將git從儲存庫拉下來
+PS C:\Users\wits\Documents\JBUDUOO> git clone https://github.com/jbuduoo/PAGE.git
+Cloning into 'PAGE'...
+remote: Enumerating objects: 9, done.
+remote: Counting objects: 100% (9/9), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 9 (delta 0), reused 3 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (9/9), done.
